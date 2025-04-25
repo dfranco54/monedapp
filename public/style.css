@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    padding: 2rem;
+  }
+  form {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    max-width: 400px;
+    margin: auto;
+  }
+  input, select {
+    width: 100%;
+    padding: 0.6rem;
+    margin: 0.5rem 0;
+  }
+  button {
+    padding: 0.6rem;
+    width: 100%;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  #resultado {
+    padding: 1rem;
+    border: solid;
+    margin-top: 1rem;
+  }
